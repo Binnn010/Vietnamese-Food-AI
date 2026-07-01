@@ -1,0 +1,7 @@
+tensortflow
+streamlit
+opencv-python
+numpy
+mathlotlib
+pandas
+sckikit-learn
