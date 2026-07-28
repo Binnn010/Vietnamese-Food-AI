@@ -1,7 +1,7 @@
-tensortflow
 streamlit
-opencv-python
+tensorflow
 numpy
-mathlotlib
-pandas
-sckikit-learn
+pillow
+matplotlib
+opencv-python
+kagglehub
