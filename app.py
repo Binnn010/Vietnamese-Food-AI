@@ -98,4 +98,3 @@ st.caption(
     "Model: MobileNetV2 (Transfer Learning) huấn luyện trên dataset "
     "[Vietnamese Foods (Kaggle)](https://www.kaggle.com/datasets/quandang/vietnamese-foods)."
 )
-}")
